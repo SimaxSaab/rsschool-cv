@@ -1,3 +1,6 @@
+![My logo](/mine.jpg)
+
+***
 # Maksym Sava
 ### FrontEnd Developer
 ***
