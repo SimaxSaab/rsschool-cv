@@ -24,3 +24,17 @@
 * Node.js
 * Angular
 * GIT
+
+## Experience
+
+&nbsp;&nbsp;&nbsp;&nbsp;There is no commercial experience in development, but the general technical background and my aspiration allow me **to independently deal with home projects and solve problems**
+
+## Education
+
+#### &nbsp;&nbsp;&nbsp;&nbsp;*Donbass State Technical University*
+##### &nbsp;&nbsp;&nbsp;&nbsp;*Electromechanical Systems*
+###### &nbsp;&nbsp;&nbsp;&nbsp;*Septermber 1997 - June 2005 | Ukraine*
+
+## English
+
+&nbsp;&nbsp;&nbsp;&nbsp;A2 level
