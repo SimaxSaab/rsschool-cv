@@ -2,7 +2,7 @@
 
 ***
 # Maksym Sava
-### FrontEnd Developer
+### &nbsp;&nbsp;&nbsp;&nbsp;*FrontEnd Developer*
 ***
 ## Contacts:
 1. Phone: [+38(050) 645-91-33(Viber)](tel:380506459133 "My phone")
