@@ -1,0 +1,20 @@
+.wrapper {
+  max-width: 1280px;
+  margin: 0 auto;
+}
+
+p,
+h4,
+h5,
+h6 {
+  text-align: justify;
+  text-indent: 10%;
+}
+
+@media (max-width:768px) {
+  .contact,
+  .contacts__link {
+    padding-top: 15px;
+    padding-bottom: 15px;
+  }
+}
